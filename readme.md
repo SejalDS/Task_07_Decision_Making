@@ -91,9 +91,3 @@ Confidence is **moderate**. Descriptive stats were validated, but malformed scor
 - **Audio:** `Task06/deepfake_interview_2024.mp3`  
 - **Process Documentation:** `Task06/README_process_2024.md`  
 
----
-
-## Submission Instructions  
-- Push this repo to GitHub under the title: **Task_07_Decision_Making**.  
-- Share the repo link with **jrstrome@syr.edu**.  
-- Complete required time reporting via Qualtrics.  
